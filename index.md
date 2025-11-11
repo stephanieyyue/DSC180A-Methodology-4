@@ -23,7 +23,3 @@ I would use a smaller but potentially better quality dataset first to make debug
 
 **4. What other techniques would you be interested in using in your project?**  
 I’m interested in exploring different knowledge graphs and different way AI models can be created with ontologies to improve mapping between biomedical datasets.
-
----
-
-_Site generated with [Jekyll](https://jekyllrb.com/) and hosted on [GitHub Pages](https://pages.github.com/)._
