@@ -5,7 +5,7 @@ title: DSC 180A Methodology Assignment 4
 
 # Stephanie Yue  
 **Email:** syyue@ucsd.edu  
-**Section:** B23 – AI Assisted Ontology Modeling  
+**Section:** B23
 **Mentor:** Justin Eldridge
 
 ---
